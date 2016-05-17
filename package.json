@@ -1,0 +1,29 @@
+{
+  "name": "misc-ble-clone-example",
+  "version": "1.0.0",
+  "description": "Bluetooth Low Energy clone example for MISC mag",
+  "main": "clone-example.js",
+  "dependencies": {
+    "async": "^2.0.0-rc.5",
+    "bleno": "^0.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DigitalSecurity/misc-ble-clone-example.git"
+  },
+  "keywords": [
+    "ble",
+    "bluetooth",
+    "misc"
+  ],
+  "author": "damien cauquil <damien.cauquil@digitalsecurity.fr>",
+  "license": "SEE LICENSE IN LICENSE file",
+  "bugs": {
+    "url": "https://github.com/DigitalSecurity/misc-ble-clone-example/issues"
+  },
+  "homepage": "https://github.com/DigitalSecurity/misc-ble-clone-example#readme"
+}
