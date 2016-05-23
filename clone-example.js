@@ -1,5 +1,5 @@
 /**
- * Bluetooth Low Energy Clone Example for MISC mag.
+ * Bluetooth Low Energy Clone Example for MISC mag n°86.
  *
  * Damien "virtualabs" Cauquil <damien.cauquil@digitalsecurity.fr>
  * Lény "bik3te" Bueno <leny.bueno@digitalsecurity.fr>

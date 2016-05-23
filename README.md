@@ -1,4 +1,4 @@
-Bluetooth Low Energy Clone example for MISC Mag
+Bluetooth Low Energy Clone example for MISC Mag n°86
 ===============================================
 
 Présentation
