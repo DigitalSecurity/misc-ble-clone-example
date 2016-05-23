@@ -1,7 +1,7 @@
 {
   "name": "misc-ble-clone-example",
   "version": "1.0.0",
-  "description": "Bluetooth Low Energy clone example for MISC mag",
+  "description": "Bluetooth Low Energy clone example for MISC mag n°86",
   "main": "clone-example.js",
   "dependencies": {
     "async": "^2.0.0-rc.5",
